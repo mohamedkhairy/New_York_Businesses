@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">New York Businesses</string>
+    <string name="search">Search</string>
+    <string name="search_error">Sorry,Something went wrong</string>
+
+
+    <string name="name">Name : %1$s</string>
+    <string name="category">Category : %1$s</string>
+    <string name="price">Price : %1$s</string>
+    <string name="rating">Rating : %1$s</string>
+    <string name="review_count">Review Count : %1$s</string>
+    <string name="address">Address : %1$s</string>
+    <string name="call">Call : %1$s</string>
+
+</resources>
